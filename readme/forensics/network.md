@@ -137,7 +137,7 @@ Kamu TIDAK BISA membaca ini kecuali kamu punya kuncinya.
 
 ***
 
-### 🌟 Tips Pro
+### 🌟 Tips
 
 1.  Scapy (Python Library): Kalau tools di atas gak mempan, kamu harus coding pakai Python menggunakan library `scapy` untuk membedah paket secara kustom.
 
